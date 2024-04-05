@@ -1,2 +1,6 @@
 # neobea
-Organize Invoices and Bank Statements using ChatGPT
+Organizing my Invoices and Bank Statements using ChatGPT, the OpenAI API and Streamlit.
+
+## OpenAI API Credential
+The OpenAI API Credential comes from 1Password, see the `get_openai_token()` function.
+
